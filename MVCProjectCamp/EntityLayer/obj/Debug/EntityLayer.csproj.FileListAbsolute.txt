@@ -1,0 +1,12 @@
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityLayer.dll
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityFramework.dll
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityFramework.xml
+D:\MVCPROJE\MVCProject\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVCPROJE\MVCProject\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\MVCPROJE\MVCProject\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\MVCPROJE\MVCProject\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+D:\MVCPROJE\MVCProject\EntityLayer\obj\Debug\EntityLayer.dll
+D:\MVCPROJE\MVCProject\EntityLayer\obj\Debug\EntityLayer.pdb
